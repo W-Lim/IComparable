@@ -1,0 +1,12 @@
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.exe
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.deps.json
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.json
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.dev.json
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.dll
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\bin\Debug\netcoreapp3.1\IComparable.pdb
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfoInputs.cache
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfo.cs
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.dll
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.pdb
+C:\Users\antonio.marques\Documents\C#\IComparable\IComparable\obj\Debug\netcoreapp3.1\IComparable.genruntimeconfig.cache
